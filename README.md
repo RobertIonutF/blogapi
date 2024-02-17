@@ -21,7 +21,7 @@ Ensure you have Node.js installed on your system to run the application.
 Start the server with the following command:
 
 ```bash
-npm run start app.js
+npm run start 
 ```
 
 ## API Endpoints
