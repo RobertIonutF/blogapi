@@ -28,15 +28,15 @@ node app.js
 
 ### User Operations
 
-- **Register a User**: POST `/users/register`
-- **Login**: POST `/users/login`
+- **Register a User**: POST `/auth/sign-up`
+- **Login**: POST `/auth/sign-in`
 
 ### Post Operations
 
 - **Create a Post**: POST `/posts`
 - **Get All Posts**: GET `/posts`
 - **Get a Single Post**: GET `/posts/:id`
-- **Update a Post**: PUT `/posts/:id`
+- **Update a Post**: PATCH `/posts/:id`
 - **Delete a Post**: DELETE `/posts/:id`
 
 ## Contributions
