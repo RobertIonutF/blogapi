@@ -42,7 +42,6 @@ npm run start
 ## Contributions
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes.
-
 ---
 
 This README provides a basic overview of the BlogAPI project. For detailed information on request and response formats, refer to the specific route handlers within the code.
